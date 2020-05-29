@@ -1,4 +1,4 @@
-My Online CV
+Birthday Form
 Description
 This is an example of a web page for tracking birthdates that match the akanian names as per the Ghananian culture using HTML language and bootstrap stylesheet and pushing them to te remote repo.
 
