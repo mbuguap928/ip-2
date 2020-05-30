@@ -1,19 +1,17 @@
-Birthday Form
-Description
-This is an example of a web page for tracking birthdates that match the akanian names as per the Ghananian culture using HTML language and bootstrap stylesheet and pushing them to te remote repo.
-
-Requirements
-clone the project from the remote repo using the link https://github.com/mbuguap928/ip-one.git To access the material,open index.html on any browser.
-
-##Known Bugs There are no bugs reported.
-
-Programming languages used
-HTML
-BOOTSTRAP
-GIT
-MARKDOWN
-Help
-
-
-Licence
-Copyright (c)Peter Mbugua MIT Licence.
+# Birthday Form
+#### A form to which allows user to enter and calculate birth dates and generate results in Ghanian culture names,  30/05/2020
+#### By **Peter Mburu Mbugua**
+## Description
+A form to which allows user to enter and calculate birth dates and generate results in Ghanian culture names depending on their gender.
+## Setup/Installation Requirements
+* You need to clone the project to make it available in your local host
+## Known Bugs
+No known bugs at the moment
+## Technologies Used
+* HTML
+* BOOTSTRAP
+* JAVASCRIPT
+## Support and contact details
+Please contact me on email mbuguap928@gmail.com
+### License
+Copyright (c) 2020 **Peter Mburu Mbugua** MIT LICENCE
